@@ -49,4 +49,6 @@ public class Patient {
 
     private Boolean isActive;
 
+    private String totalCost;
+
 }
