@@ -51,4 +51,6 @@ public class Patient {
 
     private String totalCost;
 
+    private String oldPatient;
+
 }
